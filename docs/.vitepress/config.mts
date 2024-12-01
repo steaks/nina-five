@@ -25,5 +25,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/steaks/nina-five' }
     ]
   },
-  base: '/nina-five/'
+  base: '/nina-five'
 })
