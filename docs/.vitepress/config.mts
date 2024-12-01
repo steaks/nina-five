@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Nina's Five",
   description: "A team poker game",
+  base: '/nina-five/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -24,6 +25,5 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/steaks/nina-five' }
     ]
-  },
-  base: '/nina-five'
+  }
 })
