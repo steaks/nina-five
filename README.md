@@ -1,6 +1,6 @@
-# Nina Five
+# Nina's Five
 
-Nina Five is a strategic card game for 4 players, divided into 2 teams. Each team builds poker hands. The best poker hand takes the trick. The twist comes from the peekaboo card, a secret card that can be played to ruin your opponents' hand.
+Nina's Five is a strategic card game for 4 players, divided into 2 teams. Each team builds poker hands. The best poker hand takes the trick. The twist comes from the peekaboo card, a secret card that can be played to ruin your opponents' hand.
 
 ##  Setup 
 Form two teams of two players each. And use a standard52-card deck plus 2 jokers.
@@ -38,7 +38,7 @@ The next dealer is the player to the left of the current dealer. If 3 hands have
 The first team to win 6 tricks wins the game. The team with the higher poker hands wins the trick. If teams have equal poker hands no team wins the trick.
 
 ### Hands and Tie-Breakers
-Nina Five uses modified poker hands. The following table shows the hand rankings and tie-breaker rules:
+Nina's Five uses modified poker hands. The following table shows the hand rankings and tie-breaker rules:
 
 | Hand | Description | Tie-Breaker Rules |
 |------|-------------|-------------------|
