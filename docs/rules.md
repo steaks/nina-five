@@ -36,7 +36,7 @@ The next dealer is the player to the left of the current dealer. If 3 hands have
 The first team to win 6 tricks wins the game. The team with the higher poker hands wins the trick. If teams have equal poker hands no team wins the trick.
 
 ### Hands and Tie-Breakers
-Nina Five uses modified poker hands. The following table shows the hand rankings and tie-breaker rules:
+Nina's Five uses modified poker hands. The following table shows the hand rankings and tie-breaker rules:
 
 | Hand | Description | Tie-Breaker Rules |
 |------|-------------|-------------------|

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Nina Five"
+  name: "Nina's Five"
   text: "A 2v2 poker game"
   tagline: Poker meets Euchre
   actions:

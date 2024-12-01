@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Nina Five",
+  title: "Nina's Five",
   description: "A team poker game",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -14,7 +14,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Nina Five',
+        text: "Nina's Five",
         items: [
           { text: 'Overview', link: '/overview' },
           { text: 'Rules', link: '/rules' }
@@ -25,5 +25,5 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/steaks/nina-five' }
     ]
   },
-  base: '/docs'
+  base: '/nina-five/'
 })
