@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Overview', link: '/overview' },
-      { text: 'Rules', link: '/rules' },
+      { text: 'How to Play', link: '/howToPlay' },
     ],
 
     sidebar: [
@@ -17,7 +17,7 @@ export default defineConfig({
         text: "Nina's Five",
         items: [
           { text: 'Overview', link: '/overview' },
-          { text: 'Rules', link: '/rules' }
+          { text: 'How to Play', link: '/howToPlay' }
         ]
       }
     ],

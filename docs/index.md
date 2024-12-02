@@ -5,22 +5,22 @@ layout: home
 hero:
   name: "Nina's Five"
   text: "A 2v2 poker game"
-  tagline: Poker meets Euchre
+  tagline: Poker meets Spades 
   actions:
     - theme: brand
       text: Overview
       link: /overview
-    - theme: rules
-      text: Rules
-      link: /rules
+    - theme: alt
+      text: How to Play
+      link: /howToPlay
   image: /nina-five.png
 
 features:
   - title: Trick Taking
-    details: Trick taking card game
+    details: Similar trick taking style that you love.
   - title: Poker Twist
-    details: Make Poker hands rather than high-card
+    details: But you make poker hands with your partner.
   - title: Easy to Learn
-    details: Get started in minutes
+    details: Get started in minutes.
 ---
 
